@@ -20,3 +20,7 @@ const MyApp = () => (
 )
 
 ReactDOM.render(<MyApp />, reactContainer)
+
+/*
+  https://reactjs.org/docs/hooks-reference.html#usecontext
+*/
