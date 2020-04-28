@@ -7,22 +7,22 @@
     "start": "scripts/start.sh"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.6.0",
-    "@babel/standalone": "^7.6.4",
+    "@babel/polyfill": "^7.8.7",
+    "@babel/standalone": "^7.9.5",
     "browser-sync": "^2.26.7",
-    "http-server": "^0.11.1",
-    "less": "^3.10.3",
+    "http-server": "^0.12.3",
+    "less": "^3.11.1",
     "lodash": "^4.17.15",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "shelljs": "^0.8.3"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "shelljs": "^0.8.4"
   },
   "devDependencies": {
-    "@typescript-eslint/parser": "^2.3.3",
-    "babel-eslint": "^10.0.3",
-    "eslint": "^6.5.1",
-    "eslint-plugin-react": "^7.16.0",
-    "eslint-plugin-react-hooks": "^2.1.2",
-    "typescript": "^3.6.4"
+    "@typescript-eslint/parser": "^2.30.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^3.0.0",
+    "typescript": "^3.8.3"
   }
 }
