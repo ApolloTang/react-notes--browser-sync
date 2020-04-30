@@ -3,12 +3,13 @@ const reactContainer = document.getElementById('react-container')
 
 const Child = () => {
   const baz = React.useRef(0) // reference to baz is persist across each render
-  let poo = 0                 // each render poo is recreated
+  const poo = {current:0}                 // each render poo is recreated
 
   return(
     <>
-      <div>baz.current: {baz.current++}</div>
-      <div>poo: {poo++}</div>
+      <div>baz.current: {baz.current++} </div>
+      <div>poo: {poo.current++}</div>
+      {console.log(baz.current, poo.current)}
     </>
   )
 }
