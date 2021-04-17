@@ -1,5 +1,5 @@
 No longer use this repo. Content has been moved to: 
-(https://github.com/ApolloTang/nc-react-fundamental)[https://github.com/ApolloTang/nc-react-fundamental]
+[https://github.com/ApolloTang/nc-react-fundamental](https://github.com/ApolloTang/nc-react-fundamental)
 
 Install:
 
